@@ -1,0 +1,67 @@
+body {
+  background-color: skyblue;
+}
+
+.container {
+  margin: 100px;
+}
+
+.container .titulo {
+  border: solid 1px transparent;
+  background-color: #29b6d6;
+  font-size: 20px;
+  color: white;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin: 50px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.container .titulo h3 {
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.container form .tabela {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.container form .tabela .col .label {
+  padding: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: #656957;
+}
+
+.container form .tabela .col .form-control {
+  margin: 15px;
+  padding: 10px;
+}
+
+.container .button .btn {
+  margin-left: 44.66667%;
+  padding: 10px;
+  margin-top: 20px;
+  border: 1px solid white;
+  cursor: pointer;
+  background-color: #29b6d6;
+  color: white;
+}
+
+.container .button .btn:hover {
+  background-color: #075472;
+  border: #29b6d6;
+  color: white;
+}
+/*# sourceMappingURL=tabela.css.map */

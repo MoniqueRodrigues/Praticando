@@ -1,0 +1,178 @@
+body{
+    background-color: skyblue;
+}
+
+
+
+.container{
+    margin: 100px;
+    
+    .titulo{
+        border: solid 1px transparent;
+        background-color:#29b6d6;
+        font-size: 20px;    
+        color: white;  
+        margin-left: 100px;
+        margin-right: 100px;
+        margin: 50px;
+        font-family:'Source Sans Pro', sans-serif;
+        
+        h3{
+            text-align: center;
+            margin-left: 100px;
+            margin-right: 100px;
+            
+
+        }
+
+
+    }
+    form{
+        
+    
+       .tabela{
+         display:flex;
+        //text-align: center;
+        //align-items: center;
+        justify-content: center;
+           
+           
+           .col{
+               .label{
+                   padding:20px;
+                   font-family:'Source Sans Pro', sans-serif;
+                   display: flex;
+                   justify-content: center;
+                   color: rgb(101, 105, 87);
+
+                   
+
+               }
+               
+               .form-control{
+                   margin: 15px;
+                   padding: 10px;
+                   
+
+
+               }
+           }
+       }
+
+       
+
+    }
+    .button{
+        
+        .btn{
+            margin-left: 44.66667%;
+            padding: 10px;
+            margin-top: 20px;
+            border: 1px solid white;
+            cursor: pointer;
+            background-color:#29b6d6;           
+            color: white;
+            
+
+            
+            
+        }
+        .btn:hover{
+            background-color: rgb(7, 84, 114);
+            
+            border: #29b6d6;
+            color: white;
+        }
+    }
+          
+       
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    // .titulo{
+    //     //align-items: center;
+    //     //display: block;
+        
+    //     h4{
+    //         border: solid transparent 1px;
+    //         background-color: aqua;
+    //         text-align: center;
+    //         padding: 20px;
+    //         position: relative; 
+    //         font-family: 'Courier New', Courier, monospace;
+    //         border-radius: 5px;  
+    //         margin-left: 100px;
+    //         margin-right: 100px;   
+    //         margin-top: 30px;     
+            
+    //     }
+    
+
+    // }
+    // table{
+    //     thead{
+    //         tr{
+    //             th{
+    //                 margin-top: 100px;
+    //                 .input{
+    //                    margin-top: 500px;
+                      
+
+    //                }
+            
+    //             }
+    //         }
+    //     }
+    // }
+    
+   
+
+
+
+
+
+
+
+    
